@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @manichev
 - 👀 I’m interested in CAE sistems
 - 🌱 I’m currently learning DAE solvers
-- 💞️ I’m looking to collaborate on PA10 project
+- 💞️ I’m looking to collaborate on PA10mini project
 - 📫 How to reach me vladimir.manichev@gmail.com
 
 <!---
